@@ -1,0 +1,7 @@
+C:\visualstudia\c# 프로그래밍\cs-programing\bin\Debug\cs-programing.exe.config
+C:\visualstudia\c# 프로그래밍\cs-programing\bin\Debug\cs-programing.exe
+C:\visualstudia\c# 프로그래밍\cs-programing\bin\Debug\cs-programing.pdb
+C:\visualstudia\c# 프로그래밍\cs-programing\obj\Debug\cs-programing.csproj.AssemblyReference.cache
+C:\visualstudia\c# 프로그래밍\cs-programing\obj\Debug\cs-programing.csproj.CoreCompileInputs.cache
+C:\visualstudia\c# 프로그래밍\cs-programing\obj\Debug\cs-programing.exe
+C:\visualstudia\c# 프로그래밍\cs-programing\obj\Debug\cs-programing.pdb

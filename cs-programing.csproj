@@ -42,6 +42,8 @@
     <Compile Include="06.cs" />
     <Compile Include="07.cs" />
     <Compile Include="08.cs" />
+    <Compile Include="09.cs" />
+    <Compile Include="10.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
